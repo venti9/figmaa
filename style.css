@@ -1,0 +1,34 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+a {
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+}
+menu {
+    padding-top: 33px;
+    margin: 0;
+}
+.header_menu {
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+.header_menu_item {
+    margin-right: 156px;
+}
+.text_wrapper {
+    width:100%;
+}
+.main_section {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
